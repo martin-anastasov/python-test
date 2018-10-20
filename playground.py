@@ -14,4 +14,6 @@ required_tiles = area/tile_area
 
 print("Required tiles = " + str(required_tiles))
 print("Required time = " + str(required_tiles*tile_install_time))
+print(area)
+
 
